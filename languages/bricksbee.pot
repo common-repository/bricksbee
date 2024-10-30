@@ -1,0 +1,359 @@
+# Copyright (C) 2021 UnifiedWP
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bricksbee 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bricksbee\n"
+"POT-Creation-Date: 2021-09-09 06:53:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: bricksbee.php:197
+msgid "Bricks requires PHP version %s+."
+msgstr ""
+
+#: bricksbee.php:220
+msgid ""
+"Sorry, but your version of WordPress does not meet Bricksbee's required "
+"version of %1$s4.6%2$s to run properly. The plugin not been activated. "
+"%3$sClick here to return to the Dashboard%4$s."
+msgstr ""
+
+#: includes/elements/buttons.php:16
+msgid "Dual Button"
+msgstr ""
+
+#: includes/elements/buttons.php:22
+msgid "Primary Button"
+msgstr ""
+
+#: includes/elements/buttons.php:27
+msgid "Primary Button Design"
+msgstr ""
+
+#: includes/elements/buttons.php:32
+msgid "Connector"
+msgstr ""
+
+#: includes/elements/buttons.php:37
+msgid "Secondary Button"
+msgstr ""
+
+#: includes/elements/buttons.php:42
+msgid "Secondary Button Design"
+msgstr ""
+
+#: includes/elements/buttons.php:52
+msgid "Alignment"
+msgstr ""
+
+#: includes/elements/buttons.php:70
+msgid "Space Between Buttons"
+msgstr ""
+
+#: includes/elements/buttons.php:99 includes/elements/buttons.php:101
+msgid "Click Me #1"
+msgstr ""
+
+#: includes/elements/buttons.php:107 includes/elements/buttons.php:557
+msgid "Size"
+msgstr ""
+
+#: includes/elements/buttons.php:112 includes/elements/buttons.php:562
+msgid "Medium"
+msgstr ""
+
+#: includes/elements/buttons.php:118 includes/elements/buttons.php:568
+#: includes/elements/cf7.php:222 includes/elements/gravityforms.php:292
+msgid "Style"
+msgstr ""
+
+#: includes/elements/buttons.php:124 includes/elements/buttons.php:574
+#: includes/elements/gravityforms.php:92
+msgid "None"
+msgstr ""
+
+#: includes/elements/buttons.php:130 includes/elements/buttons.php:580
+msgid "Circle"
+msgstr ""
+
+#: includes/elements/buttons.php:139 includes/elements/buttons.php:590
+msgid "Outline"
+msgstr ""
+
+#: includes/elements/buttons.php:148 includes/elements/buttons.php:599
+msgid "Link"
+msgstr ""
+
+#: includes/elements/buttons.php:155 includes/elements/buttons.php:606
+msgid "Link type"
+msgstr ""
+
+#: includes/elements/buttons.php:163 includes/elements/buttons.php:170
+#: includes/elements/buttons.php:369 includes/elements/buttons.php:408
+#: includes/elements/buttons.php:614 includes/elements/buttons.php:621
+msgid "Icon"
+msgstr ""
+
+#: includes/elements/buttons.php:186 includes/elements/buttons.php:297
+#: includes/elements/buttons.php:388 includes/elements/buttons.php:637
+#: includes/elements/buttons.php:749 includes/elements/cf7.php:234
+#: includes/elements/gravityforms.php:304
+msgid "Typography"
+msgstr ""
+
+#: includes/elements/buttons.php:212 includes/elements/buttons.php:663
+msgid "Position"
+msgstr ""
+
+#: includes/elements/buttons.php:216 includes/elements/buttons.php:668
+msgid "Left"
+msgstr ""
+
+#: includes/elements/buttons.php:224 includes/elements/buttons.php:675
+msgid "Space between"
+msgstr ""
+
+#: includes/elements/buttons.php:240 includes/elements/buttons.php:691
+#: includes/elements/cf7.php:172 includes/elements/gravityforms.php:249
+msgid "Width in %"
+msgstr ""
+
+#: includes/elements/buttons.php:257 includes/elements/buttons.php:708
+#: includes/elements/cf7.php:196 includes/elements/gravityforms.php:266
+msgid "Margin"
+msgstr ""
+
+#: includes/elements/buttons.php:276 includes/elements/buttons.php:728
+#: includes/elements/cf7.php:209 includes/elements/gravityforms.php:279
+msgid "Padding"
+msgstr ""
+
+#: includes/elements/buttons.php:313 includes/elements/buttons.php:488
+#: includes/elements/buttons.php:765 includes/elements/cf7.php:250
+#: includes/elements/gravityforms.php:320
+msgid "Background Color"
+msgstr ""
+
+#: includes/elements/buttons.php:332 includes/elements/buttons.php:507
+#: includes/elements/buttons.php:780 includes/elements/cf7.php:269
+#: includes/elements/gravityforms.php:339
+msgid "Border"
+msgstr ""
+
+#: includes/elements/buttons.php:348 includes/elements/buttons.php:531
+#: includes/elements/buttons.php:796
+msgid "Box shadow"
+msgstr ""
+
+#: includes/elements/buttons.php:366
+msgid "Type"
+msgstr ""
+
+#: includes/elements/buttons.php:367
+msgid "Select Type"
+msgstr ""
+
+#: includes/elements/buttons.php:370 includes/elements/buttons.php:379
+msgid "Text"
+msgstr ""
+
+#: includes/elements/buttons.php:381
+msgid "Or"
+msgstr ""
+
+#: includes/elements/buttons.php:425
+msgid "Icon Font"
+msgstr ""
+
+#: includes/elements/buttons.php:451 includes/elements/buttons.php:469
+msgid "Width in px"
+msgstr ""
+
+#: includes/elements/buttons.php:549 includes/elements/buttons.php:551
+msgid "Click Me #2"
+msgstr ""
+
+#: includes/elements/cf7.php:17 includes/elements.php:20
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/elements/cf7.php:23 includes/elements/gravityforms.php:28
+msgid "Fields"
+msgstr ""
+
+#: includes/elements/cf7.php:28 includes/elements/gravityforms.php:33
+msgid "Submit Button"
+msgstr ""
+
+#: includes/elements/cf7.php:41
+msgid ""
+"Please click on the link below and install/activate Contact Form 7. Make "
+"sure to refresh this page after installation or activation. %s"
+msgstr ""
+
+#: includes/elements/cf7.php:42
+msgid " Click to install or activate Contact Form 7"
+msgstr ""
+
+#: includes/elements/cf7.php:49 includes/elements/gravityforms.php:67
+msgid "Select Form"
+msgstr ""
+
+#: includes/elements/cf7.php:52 includes/elements/gravityforms.php:69
+msgid "Select a Form"
+msgstr ""
+
+#: includes/elements/cf7.php:58
+msgid "HTML Class"
+msgstr ""
+
+#: includes/elements/cf7.php:60
+msgid "Add CSS custom class to the form."
+msgstr ""
+
+#: includes/elements/cf7.php:67 includes/elements/gravityforms.php:146
+msgid "Label typography"
+msgstr ""
+
+#: includes/elements/cf7.php:86 includes/elements/gravityforms.php:161
+msgid "Placeholder typography"
+msgstr ""
+
+#: includes/elements/cf7.php:113 includes/elements/gravityforms.php:176
+msgid "Field typography"
+msgstr ""
+
+#: includes/elements/cf7.php:128 includes/elements/gravityforms.php:191
+msgid "Field background"
+msgstr ""
+
+#: includes/elements/cf7.php:143 includes/elements/gravityforms.php:223
+msgid "Field padding"
+msgstr ""
+
+#: includes/elements/cf7.php:156 includes/elements/gravityforms.php:207
+msgid "Field border"
+msgstr ""
+
+#: includes/elements/cf7.php:189
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/elements/cf7.php:227 includes/elements/gravityforms.php:296
+msgid "Custom"
+msgstr ""
+
+#: includes/elements/cf7.php:289
+msgid "Contact form 7 is missing! Please install and activate"
+msgstr ""
+
+#: includes/elements/cf7.php:300
+msgid "No form selected."
+msgstr ""
+
+#: includes/elements/gravityforms.php:17 includes/elements.php:25
+msgid "Gravity Forms"
+msgstr ""
+
+#: includes/elements/gravityforms.php:23
+msgid "General"
+msgstr ""
+
+#: includes/elements/gravityforms.php:61
+msgid ""
+"Please click on the link below and install/activate Gravity Forms. Make "
+"sure to refresh this page after installation or activation."
+msgstr ""
+
+#: includes/elements/gravityforms.php:78
+msgid "Enable AJAX Form Submission"
+msgstr ""
+
+#: includes/elements/gravityforms.php:86
+msgid "Title & Description"
+msgstr ""
+
+#: includes/elements/gravityforms.php:90
+msgid "From Gravity Form"
+msgstr ""
+
+#: includes/elements/gravityforms.php:91
+msgid "Enter Your Own"
+msgstr ""
+
+#: includes/elements/gravityforms.php:100
+msgid "Form Title"
+msgstr ""
+
+#: includes/elements/gravityforms.php:108
+msgid "Form Description"
+msgstr ""
+
+#: includes/elements/gravityforms.php:116
+msgid "Keyboard Tab Key Support"
+msgstr ""
+
+#: includes/elements/gravityforms.php:124
+msgid "Set Tabindex Value"
+msgstr ""
+
+#: includes/elements/gravityforms.php:137
+msgid ""
+"You need to change above tabindex value if pressing tab on your keyboard "
+"not works as expected."
+msgstr ""
+
+#: includes/elements/gravityforms.php:361
+msgid "Gravity Forms is missing! Please install and activate"
+msgstr ""
+
+#: includes/elements/gravityforms.php:369
+msgid "Please select a Gravity Form"
+msgstr ""
+
+#: includes/elements.php:30
+msgid "Multi Buttons"
+msgstr ""
+
+#: includes/helper/functions-forms.php:56
+msgid "You have not added any Gravity Forms yet."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Bricksbee"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.bricksbee.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bricksbee is a premium extension for Bricks Theme that adds 10+ elements. "
+"Bricks must be installed and activated."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UnifiedWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.unifiedwp.com/"
+msgstr ""

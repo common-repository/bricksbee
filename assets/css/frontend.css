@@ -1,0 +1,190 @@
+/** Common **/
+.bb-form input[type="file"] {
+  border: none;
+}
+
+.bb-button,
+.bb-cf7-form .wpcf7-submit,
+.bb-gravityform input[type="submit"],
+.bb-gravityform input[type="button"] {
+  display: inline-block;
+  padding: 0 15px;
+  line-height: 40px;
+  border-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: .5px;
+  white-space: nowrap;
+  color: #212121;
+}
+
+.bb-background-primary,
+.bb-gravityform-button-bg-primary input[type="submit"],
+.bb-gravityform-button-bg-primary input[type="button"],
+.bb-cf7-button-bg-primary .wpcf7-submit {
+  background-color: #ffeb3b;
+}
+
+.bb-background-secondary,
+.bb-gravityform-button-bg-secondary input[type="submit"],
+.bb-gravityform-button-bg-secondary input[type="button"],
+.bb-cf7-button-bg-secondary .wpcf7-submit {
+  background-color: #fc5778;
+  color: #fff;
+}
+
+.bb-background-light,
+.bb-gravityform-button-bg-light input[type="submit"],
+.bb-gravityform-button-bg-light input[type="button"],
+.bb-cf7-button-bg-light .wpcf7-submit {
+  background-color: #fff;
+}
+
+.bb-background-dark,
+.bb-gravityform-button-bg-dark input[type="submit"],
+.bb-gravityform-button-bg-dark input[type="button"],
+.bb-cf7-button-bg-dark .wpcf7-submit {
+  background-color: #263238;
+  color: #fff;
+}
+
+.bb-background-muted,
+.bb-gravityform-button-bg-muted input[type="submit"],
+.bb-gravityform-button-bg-muted input[type="button"],
+.bb-cf7-button-bg-muted .wpcf7-submit {
+  background-color: #9e9e9e;
+}
+
+.bb-background-info,
+.bb-gravityform-button-bg-info input[type="submit"],
+.bb-gravityform-button-bg-info input[type="button"],
+.bb-cf7-button-bg-info .wpcf7-submit {
+  background-color: #00b0f4;
+  color: #fff;
+}
+
+.bb-background-succuss,
+.bb-gravityform-button-bg-success input[type="submit"],
+.bb-gravityform-button-bg-success input[type="button"],
+.bb-cf7-button-bg-success .wpcf7-submit {
+  background-color: #11b76b;
+  color: #fff;
+}
+
+.bb-background-warning,
+.bb-gravityform-button-bg-warning input[type="submit"],
+.bb-gravityform-button-bg-warning input[type="button"],
+.bb-cf7-button-bg-warning .wpcf7-submit {
+  background-color: #ffa100;
+  color: #fff;
+}
+
+.bb-background-danger,
+.bb-gravityform-button-bg-danger input[type="submit"],
+.bb-gravityform-button-bg-danger input[type="button"],
+.bb-cf7-button-bg-danger .wpcf7-submit {
+  background-color: #fa4362;
+  color: #fff;
+}
+
+/** Buttons **/
+.bb-buttons-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.bb-button i {
+  position: relative;
+}
+
+.bb-button.icon-left span {
+  margin-left: 10px;
+}
+
+.bb-button.icon-right span {
+  margin-right: 10px;
+}
+
+.bb-primary-button {
+  position: relative;
+}
+
+.bb-button.outline {
+  border: 2px solid;
+}
+
+.bb-button.circle {
+  border-radius: 100px !important;
+}
+
+.bb-button.sm {
+  line-height: 30px;
+  padding: 0 10px;
+  font-size: .9em;
+}
+
+.bb-button.lg {
+  font-size: 1.1em;
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.bb-button.xl {
+  font-size: 1.2em;
+  padding: 0 30px;
+  line-height: 60px;
+}
+
+.bb-color-primary {
+  color: #ffd64f;
+}
+
+.bb-color-secondary {
+  color: #fc5778;
+}
+
+.bb-color-light {
+  color: #fff;
+}
+
+.bb-color-dark {
+  color: #263238;
+}
+
+.bb-color-muted {
+  color: #9e9e9e;
+}
+
+.bb-color-info {
+  color: #00b0f4;
+}
+
+.bb-color-succuss {
+  color: #11b76b;
+}
+
+.bb-color-warning {
+  color: #ffa100;
+}
+
+.bb-color-danger {
+  color: #fa4362;
+}
+
+/** Buttons: Connector **/
+.bb-button-connector {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(50%, -50%);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: calc( 0px - 16px);
+  width: 30px;
+  height: 30px;
+}
